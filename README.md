@@ -74,7 +74,7 @@ README.md
 
 ## Live Demo
 
-https://python-projects-6-7me7.onrender.com
+https://pythonprojects-77wgsdpvr5inhu5uzwhchk.streamlit.app/
 
 ---
 
